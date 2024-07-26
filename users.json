@@ -1,4 +1,14 @@
-{
-    "pritam": "pritam1",
-    "neel": "neel1"
-}
+[
+    {
+        "username": "user1",
+        "password": "password123"
+    },
+    {
+        "username": "user2",
+        "password": "mypassword"
+    },
+    {
+        "username": "admin",
+        "password": "adminpass"
+    }
+]
